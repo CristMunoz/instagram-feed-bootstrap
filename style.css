@@ -1,0 +1,12 @@
+.logo {
+    color: black;
+}
+
+.logo:hover {
+    color: black;
+}
+
+.body-icons {
+    color: grey;
+    margin: 0 20px;
+}
